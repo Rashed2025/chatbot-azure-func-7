@@ -1,7 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<leave blank if using RBAC>",
+    "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "python",
     "KEY_VAULT_NAME": "chatbotstage6"
   }
